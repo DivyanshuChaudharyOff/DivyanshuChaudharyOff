@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Chaudhar</h1>
+<h1 align="center">Hi 👋, I'm Divyanshu Chaudhary</h1>
 <h3 align="center">Final year student from UPES Dehradun. Cybersecurity nerd on a mission to outsmart hackers and break into systems—legally, of course!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
