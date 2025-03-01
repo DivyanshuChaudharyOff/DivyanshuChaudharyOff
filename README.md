@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **many things but my main project is Machine Learning-Based Phishing Detection**
 
-- 🌱 I’m currently learning **Threat modeling and NLP**
+- 🌱 I’m currently learning **Data Analysis and NLP**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
