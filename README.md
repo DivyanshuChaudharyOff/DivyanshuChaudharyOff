@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
 
-- 🔭 I’m currently working on **Nothing as of now. Got an idea feel free to reach out**
+- 🔭 I’m currently working on **Nothing as of now. Got an idea!!? feel free to reach out**
 
 - 🌱 I’m currently learning **GenAI on Kaggle**
 
