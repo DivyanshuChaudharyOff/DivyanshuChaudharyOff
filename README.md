@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GenAI on Kaggle**
 
-- 👯 I’m looking to collaborate on **Just About Anything **
+- 👯 I’m looking to collaborate on **Just About Anything**
 
 - 📫 How to reach me **divyanshuchaudhary304@gmail.com**
 
