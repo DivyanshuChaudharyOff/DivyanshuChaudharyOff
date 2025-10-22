@@ -1,6 +1,6 @@
-<!-- ✨ Cybernetic Profile ✨ -->
+<!-- 💜 Cybernetic Profile (Purple Themed) 💜 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Divyanshu+Chaudhary;Cybersecurity+Analyst+%7C+SOC+Operations;GenAI+%26+Automation+Explorer;Welcome+to+my+Digital+Fortress!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=AA00FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Divyanshu+Chaudhary;Cybersecurity+Analyst+%7C+SOC+Operations;GenAI+%26+Automation+Explorer;Welcome+to+my+Digital+Fortress!" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -32,16 +32,16 @@
   <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,html,css,aws,docker,git,mysql" /><br><br>
 
   <!-- Cybersecurity Tools Badges -->
-  <img src="https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004880?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-F37626?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00B2A9?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-8000FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-5D3FD3?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-9932CC?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-8A2BE2?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-7B68EE?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-4B0082?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Threat+Detection+%7C+SIEM+Operations;Cloud+Security+%7C+AI+Automation;Always+Upgrading+My+Cyber+Arsenal!" alt="Tech Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=AA00FF&center=true&vCenter=true&width=600&lines=Threat+Detection+%7C+SIEM+Operations;Cloud+Security+%7C+AI+Automation;Always+Upgrading+My+Cyber+Arsenal!" alt="Tech Typing Animation" />
 </p>
 
 ---
@@ -49,15 +49,15 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DivyanshuChaudharyOff&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DivyanshuChaudharyOff&show_icons=true&theme=midnight-purple&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuChaudharyOff&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuChaudharyOff&theme=midnight-purple" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuChaudharyOff&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyanshuChaudharyOff&theme=dracula&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -65,13 +65,13 @@
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/divyanshu-chaudhary-407907230" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/DivyanshuChaudharyOff" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://cyber-knight-chronicles.lovable.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%2300FFAA.svg?style=for-the-badge&logo=safari&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-AA00FF?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 </p>
 
@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer&text=Stay+Secure!&fontSize=35&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF&height=120&section=footer&text=Stay+Secure!&fontSize=35&fontColor=FFFFFF" />
 </p>
