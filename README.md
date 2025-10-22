@@ -29,8 +29,19 @@
 <h2 align="center">🚀 Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,html,css,aws,docker,git,mysql,figma" /><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Threat+Hunting;Cloud+Security+%7C+AI+Automation;Always+Upgrading+My+Arsenal!" alt="Tech Typing Animation" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,html,css,aws,docker,git,mysql" /><br><br>
+
+  <!-- Cybersecurity Tools Badges -->
+  <img src="https://img.shields.io/badge/Wireshark-0066CC?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004880?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-F37626?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-00B2A9?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Threat+Detection+%7C+SIEM+Operations;Cloud+Security+%7C+AI+Automation;Always+Upgrading+My+Cyber+Arsenal!" alt="Tech Typing Animation" />
 </p>
 
 ---
