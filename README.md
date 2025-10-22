@@ -1,6 +1,6 @@
 <!-- ✨ Cybernetic Profile ✨ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Divyanshu+Chaudhary;Cybersecurity+Analyst+%7C+SOC+Operations;GenAI+%26+Automation+Explorer;Welcome+to+my+Digital+Fortress!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Divyanshu+Chaudhary;Cybersecurity+Analyst+%7C+SOC+Operations;GenAI+%26+Automation+Explorer;Welcome+to+my+Digital+Fortress!" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,html,css,aws,docker,git,mysql,figma" /><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Threat+Hunting;Cloud+Security+%7C+AI+Automation;Always+Upgrading+My+Arsenal!" alt="Tech Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Threat+Hunting;Cloud+Security+%7C+AI+Automation;Always+Upgrading+My+Arsenal!" alt="Tech Typing Animation" />
 </p>
 
 ---
@@ -75,4 +75,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer&text=Stay+Secure!&fontSize=35&fontColor=000000" />
 </p>
-
