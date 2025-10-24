@@ -16,7 +16,7 @@
 ---
 
 ### 🧠 About Me  
-- 💼 **Cybersecurity Analyst @ SkillMine Technologies (SOC Operations)**  
+- 💼 **Cybersecurity Analyst @ SkillMine Technologies (SOC Operations).**  
 - 🧰 Skilled in **Threat Detection | Phishing Investigation | Vulnerability Assessment**  
 - ⚙️ Tools: *Wireshark, Burp Suite, Nessus, Splunk, Qualys, Arcsight, Metasploit*  
 - 🌱 Currently learning: **GenAI x Cybersecurity & Automation with LangChain**  
